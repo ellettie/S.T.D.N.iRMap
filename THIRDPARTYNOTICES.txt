@@ -1,0 +1,63 @@
+S.T.D.N.iRMap uses the following third-party software:
+
+1. Python 3
+   - License: Python Software Foundation License (PSFL)
+   - Website: https://www.python.org/
+   - Full License: https://docs.python.org/3/license.html
+
+2. Qt for Python (PySide6)
+   - License: GNU Library or Lesser General Public License (LGPL)
+   - Website: https://wiki.qt.io/Qt_for_Python
+   - Full License: https://www.qt.io/qt-licensing
+
+3. shiboken6
+   - License: GNU Library or Lesser General Public License (LGPL)
+   - Website: https://wiki.qt.io/Qt_for_Python
+   - Full License: https://www.qt.io/qt-licensing
+
+4. NumPy
+   - License: BSD 3-Clause License (NumPy License)
+   - Website: https://numpy.org/
+   - Full License: https://numpy.org/doc/stable/license.html
+
+5. pyirsdk
+   - License: MIT License
+   - Website: https://github.com/kutu/pyirsdk
+   - Full License:
+
+        The MIT License (MIT)
+        Copyright (c) 2014 Mihail Latyshov, kutu182@gmail.com
+
+        Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+        The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. PyYAML
+   - License: MIT License
+   - Website: https://pyyaml.org/
+   - Full License: 
+
+      Copyright (c) 2017-2021 Ingy döt Net
+      Copyright (c) 2006-2016 Kirill Simonov
+
+      Permission is hereby granted, free of charge, to any person obtaining a copy of
+      this software and associated documentation files (the "Software"), to deal in
+      the Software without restriction, including without limitation the rights to
+      use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+      of the Software, and to permit persons to whom the Software is furnished to do
+      so, subject to the following conditions:
+
+      The above copyright notice and this permission notice shall be included in all
+      copies or substantial portions of the Software.
+
+      THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+      IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+      FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+      AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+      LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+      OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+      SOFTWARE.
+
+For licenses and notices of each third-party software, please visit the websites of the respective software.

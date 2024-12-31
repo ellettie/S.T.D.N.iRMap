@@ -1,0 +1,34 @@
+{
+    "ui": {
+        "language": "ja"
+    },
+    "geometry": {
+        "x": 0.7856,
+        "y": 0.0061,
+        "window_size": 0.5,
+        "opacity": 0.8
+    },
+    "color": {
+        "outline_color": "#9d9d9d",
+        "track_color": "#ffffff",
+        "sf_color": "#ff0000",
+        "player_outline_color": "#ffffff",
+        "player_color": "#ff0000",
+        "other_color": "#2d323b",
+        "next_outline_color": "#36f57c",
+        "prev_outline_color": "#f53659",
+        "number_color": "#ffffff"
+    },
+    "number": {
+        "track_outline_width": 3,
+        "track_width": 9,
+        "car_outline_width": 10,
+        "car_size": 20,
+        "player_scale": 1.2,
+        "other_car_opacity": 0.9,
+        "other_class_opacity": 0.7
+    },
+    "bool": {
+        "show_position": false
+    }
+}
